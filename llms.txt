@@ -1,5 +1,31 @@
 # AvökatFinder Bulgaria
-> English-speaking law firm directory for Bulgaria
+> The English-language directory of lawyers and law firms in Bulgaria for expats, foreign nationals and international businesses.
 
-Directory: https://bulgaria.avokatfinder.com
-Email: info@avokatfinder.com
+## Main Pages
+- https://bulgaria.avokatfinder.com/: Home — find an English-speaking lawyer in Bulgaria
+- https://bulgaria.avokatfinder.com/lawyers/: Directory of verified law firms and lawyers in Bulgaria
+- https://bulgaria.avokatfinder.com/glossary/: Legal glossary — plain-English definitions of Bulgaria legal terms
+- https://bulgaria.avokatfinder.com/blog/: Expat legal guides and property law articles for Bulgaria
+- https://bulgaria.avokatfinder.com/about/: About AvökatFinder Bulgaria
+- https://bulgaria.avokatfinder.com/contact/: Contact us
+
+## Legal Glossary Terms
+- https://bulgaria.avokatfinder.com/glossary/-lease/
+- https://bulgaria.avokatfinder.com/glossary/-mortgage/
+- https://bulgaria.avokatfinder.com/glossary/-notarial-deed/
+- https://bulgaria.avokatfinder.com/glossary/danuk-pridobivaneto/
+- https://bulgaria.avokatfinder.com/glossary/egn-grajdanin/
+- https://bulgaria.avokatfinder.com/glossary/gruntovnica/
+- https://bulgaria.avokatfinder.com/glossary/notarius/
+- https://bulgaria.avokatfinder.com/glossary/predvaren-dogovor/
+
+## Site Info
+- Language: English
+- Audience: Expats, foreign nationals, international property buyers and businesses in Bulgaria
+- Content: Law firm directory, legal glossary, expat legal guides
+- Last updated: 2026-04-30
+- Sitemap: https://bulgaria.avokatfinder.com/sitemap.xml
+
+## Permissions
+User-agent: *
+Allow: /
