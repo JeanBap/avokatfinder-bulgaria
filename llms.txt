@@ -13,14 +13,22 @@
 - https://bulgaria.avokatfinder.com/glossary/-lease/
 - https://bulgaria.avokatfinder.com/glossary/-mortgage/
 - https://bulgaria.avokatfinder.com/glossary/-notarial-deed/
+- https://bulgaria.avokatfinder.com/glossary/akt-za-sobstvenost-bg/
 - https://bulgaria.avokatfinder.com/glossary/danuk-pridobivaneto/
+- https://bulgaria.avokatfinder.com/glossary/danuk-prihvarlane-bg/
 - https://bulgaria.avokatfinder.com/glossary/egn-grajdanin/
 - https://bulgaria.avokatfinder.com/glossary/gruntovnica/
 - https://bulgaria.avokatfinder.com/glossary/hipoteka-bg/
 - https://bulgaria.avokatfinder.com/glossary/imoiten-registar/
+- https://bulgaria.avokatfinder.com/glossary/imotni-registar-bg/
+- https://bulgaria.avokatfinder.com/glossary/ipoteka-bg/
+- https://bulgaria.avokatfinder.com/glossary/kupuvacha-bg/
 - https://bulgaria.avokatfinder.com/glossary/notarialen-akt/
+- https://bulgaria.avokatfinder.com/glossary/notarius-bg/
 - https://bulgaria.avokatfinder.com/glossary/notarius/
+- https://bulgaria.avokatfinder.com/glossary/obshtinska-sobstvenost-bg/
 - https://bulgaria.avokatfinder.com/glossary/predvaren-dogovor/
+- https://bulgaria.avokatfinder.com/glossary/usloviya-kartirane-bg/
 
 ## Site Info
 - Language: English
